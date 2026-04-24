@@ -1,0 +1,11 @@
+{"level":"info","message":"Application started"}
+{"level":"warn","message":"Login failed. User not found: abc"}
+{"level":"warn","message":"Login failed. User not found: hehe@gmail.com"}
+{"level":"info","message":"New user signed up: hello@gmail.com"}
+{"level":"warn","message":"Login failed. User not found: abc"}
+{"level":"warn","message":"Login failed. User not found: hehe@gmail.com"}
+{"level":"warn","message":"Login failed. User not found: hehe@gmail.com"}
+{"level":"info","message":"Application started"}
+{"level":"warn","message":"Invalid signup attempt with email: wah"}
+{"level":"info","message":"New user signed up: wah@gmail.com"}
+{"level":"warn","message":"Login failed. User not found: wah"}
