@@ -9,3 +9,8 @@
 {"level":"warn","message":"Invalid signup attempt with email: wah"}
 {"level":"info","message":"New user signed up: wah@gmail.com"}
 {"level":"warn","message":"Login failed. User not found: wah"}
+{"level":"info","message":"Application started"}
+{"level":"warn","message":"Login failed. User not found: wah@gmail.com"}
+{"level":"info","message":"New user signed up: wahaj@gmail.com"}
+{"level":"warn","message":"Login failed. User not found: wahaj"}
+{"level":"warn","message":"Login failed. User not found: wahaj"}
